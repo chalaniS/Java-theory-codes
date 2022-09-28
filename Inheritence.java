@@ -1,19 +1,3 @@
-// Inherit the Person Class and create
-// a Student Class
-// The student class should have the following
-// properties
-// studentId, name, mobileno, GPA
-// We will have a method called
-// displayClass()
-
-// Topics Covered
-// 1. Inheritence
-// 2. Calling super class constructors
-// 3. Using protected keyword
-// 4. Overriding
-// 5. Overloading
-// 6. Creating Objects
-// 7. Using objects of the Base Class
 
 class Person {
     protected String name;

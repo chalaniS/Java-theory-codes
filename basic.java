@@ -1,14 +1,3 @@
-// Create a Person Class in Java with the following 
-// name and mobileno as properties
-
-// Topics Covered
-// 1. Implementing a class
-// 2. Constructors 
-//       Default
-//      Overloaded
-// 3. Getters/Setters
-// 4. Creating Objects
-
 class Person {
     private String name;
     private String mobileNo;
